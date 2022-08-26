@@ -1,0 +1,7 @@
+flask
+jinja2
+markupsafe
+werkzeug
+itsdangerous
+click
+Redis
